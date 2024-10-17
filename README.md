@@ -37,5 +37,6 @@
   **한국사회적기업진흥원_ESG 청년 창업 아이디어 공모전**, 3위 [우수상] - Linkit <br/>
   **홍익대학교_홍익대학교 창업경진대회**, 1위 [최우수상] - Link Culture <br/>
   **한국사회보장정보원_2024 국민행복서비스 발굴·창업경진대회**, 1위 [대상] - Link Culture <br/>
-
+  <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foznchex&count_bg=%232563EB&title_bg=%233AEBB6&icon=&icon_color=%23FC1D1D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
