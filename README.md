@@ -1,5 +1,7 @@
 <div align="center">
+  
   ### Main Skills
+  
   <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
       <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
           <img alt="Java" src="https://img.shields.io/badge/Java-F78740?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
@@ -9,11 +11,13 @@
           <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?&style=for-the-badge&logo=Redis&logoColor=white"/>
       </div>
       <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+          <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
           <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>
           <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
           <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-2088FF?&style=for-the-badge&logo=Github Actions&logoColor=white"/>
       </div>
   </div>
   <br/>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foznchex&count_bg=%232563EB&title_bg=%233AEBB6&icon=&icon_color=%23FC1D1D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
