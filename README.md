@@ -23,19 +23,19 @@
    **대학생 IT 연합동아리 UMC 5th, Server** (2023.09. ~ 2023.02. *수료) <br/>
    **성균관대학교 캠퍼스타운 입주** (2024.03. ~ 2025.02.) <br/>
    **하나 소셜 벤처 유니버시티 서강대 지부** (2024.07. ~ 2024.08. *수료) <br/>
-   **2024 학생 창업 300, 성장 트랙** (2024.07. ~) <br/>
+   **2024 학생 창업 300, 성장 트랙** (2024.07. ~ 2024.11.) <br/>
  
    ## 🚀 Project
    **Career Festival**, 오프라인 행사 기록 플랫폼 (2023.12. ~ 2024.02)  → **R&R** : 백엔드 개발 [🔗 career_festival](https://github.com/oznchex/Career-Festival-Server) <br/>
    **Linkit**, 팀빌딩 플랫폼 → **R&R** : 서비스 기획, 백엔드 개발, 클라우드 인프라 구축 (2023.09 ~ ) [🔗 linkit.im](https://linkit.im/) <br/>
    **Link Culture**, 배리어프리 문화생활 플랫폼 → **R&R** : 서비스 기획, 프론트엔드 개발 (2024.01 ~ 2024.11) [🔗 LinkCulture](https://github.com/oznchex/linkculture-web-2) <br/>
-   **Aurora**, AI 챗봇을 활용한 사회 문제 해결 프로젝트 발굴 플랫폼 → **R&R** : 프론트엔드 개발 (2024.01 ~ ) [🔗 myaurora.co.kr](https://myaurora.co.kr/) <br/>
+   **Aurora**, AI 챗봇을 활용한 사회 문제 해결 프로젝트 발굴 플랫폼 → **R&R** : 프론트엔드 개발 (2024.01 ~ 2024.12) [🔗 myaurora.co.kr](https://myaurora.co.kr/) <br/>
  
    ## 🏅 Awards
    **홍익대학교_홍익스타트업 7기**, 2위 [우수상] - Linkit <br/>
    **한국사회적기업진흥원_ESG 청년 창업 아이디어 공모전**, 3위 [우수상] - Linkit <br/>
    **홍익대학교_홍익대학교 창업경진대회**, 1위 [최우수상] - LinkCulture <br/>
-   **한국사회보장정보원_2024 국민행복서비스 발굴·창업경진대회**, 1위 [대상] - LinkCulture <br/>
+   **한국사회보장정보원_2024 국민행복서비스 발굴·창업경진대회**, 1위 [대상_보건복지부장관상] - LinkCulture <br/>
    **행정안전부_제 12회 범정부 공공데이터 활용 창업경진대회**, 3위 [중소벤처기업부장관상] - LinkCulture <br/>
   <br/>
   
