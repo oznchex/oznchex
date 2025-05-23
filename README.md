@@ -39,3 +39,9 @@
    **행정안전부_제 12회 범정부 공공데이터 활용 창업경진대회**, 3위 [중소벤처기업부장관상] - LinkCulture <br/>
   <br/>
 </div>  -->
+
+<div align="center">
+  
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Foznchex?color=green&label=hits&size=small)](https://myhits.vercel.app)
+
+</div>
