@@ -39,9 +39,32 @@
    **행정안전부_제 12회 범정부 공공데이터 활용 창업경진대회**, 3위 [중소벤처기업부장관상] - LinkCulture <br/>
   <br/>
 </div>  -->
+<div>
+  
+### 👋 안녕하세요, 꾸준한 학습과 개선점 찾기를 통해 성장하는 백엔드 개발자 권동민입니다.
+> 다양한 기술적 문제를 마주하고 해결하는 과정을 즐기며,<br/>
+> 그 결과물이 **사용자에게 필요로 하는 기능을 전달될 때 가장 큰 보람**을 느낍니다.
 
-<div align="center">
+## Main Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)<br>
+![JPA](https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+## Projects
+
+### 그로블 [Groble](https://groble.im) 
+> Backend Developer | 2025.01 ~
+
+### 링킷 [Linkit](https://linkit.im) 
+> Backend Developer | 2023.09 ~
+
+### 
+
+  <div align="center">
   
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Foznchex?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
+  </div>
 </div>
