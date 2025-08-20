@@ -55,7 +55,7 @@
 ## Projects
 
 ### 그로블 [Groble](https://groble.im) 
-> Backend Developer | 2025.01 ~
+> Backend Developer | 2024.11 ~
 
 ### 링킷 [Linkit](https://linkit.im) 
 > Backend Developer | 2023.09 ~
