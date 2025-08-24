@@ -60,7 +60,11 @@
 ### 링킷 [Linkit](https://linkit.im) 
 > Backend Developer | 2023.09 ~
 
-### 
+### 링컬쳐 [LinkCulture](https://www.linkculture.kr/)
+> Frontend Developer | 2024.10 ~ 2024.11
+
+### 오로라 [Aurora](https://aurora-web-git-main-trackers-c6f79cb4.vercel.app/) *(서비스 종료)*
+> Frontend Developer | 2024.01 ~ 2024.12
 
   <div align="center">
   
